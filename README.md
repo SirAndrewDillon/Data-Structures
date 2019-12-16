@@ -1,4 +1,4 @@
-# Data Structures 
+# Data Structures 12-16-19 - 12-20-19
 
 Topics:
  * Queues
